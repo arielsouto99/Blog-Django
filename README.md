@@ -1,4 +1,4 @@
-# myblog}
+# Blog
 
 Backend: Django (basado en clases)
 Frontend: Muy por encima con Foundation
