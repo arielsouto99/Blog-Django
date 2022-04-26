@@ -1,7 +1,7 @@
 # Blog
 
-Backend: Django (basado en clases)
+> Backend: Django (basado en clases)
 
-Frontend: Muy por encima con Foundation
+> Frontend: Foundation (muy por encima)
 
-Se hizo mucho más incapié en el backend
+Se hizo mucho más incapié en el backend!
